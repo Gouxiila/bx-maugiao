@@ -1,11 +1,11 @@
 import React from 'react';
 
-function Thai() {
+function Footer() {
     return (
         <div>
-            <p>Hello Thai</p>
+            <h1>Footer</h1>
         </div>
     );
 }
 
-export default Thai;
+export default Footer;
